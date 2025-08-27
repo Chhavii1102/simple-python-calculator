@@ -78,3 +78,4 @@ b18=tk.Button(root,text='.',command = lambda:click('.'),width=4,height=1,font=("
 b18.place(x=190,y=330)
 
 root.mainloop()
+
